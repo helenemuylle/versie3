@@ -487,6 +487,9 @@ h6,
 #features3-4 H5 {
   color: #ffffff;
 }
+#form1-f .form-control-label {
+  color: #232323;
+}
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
