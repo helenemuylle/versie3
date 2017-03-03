@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hélène GRAFISCH ONTWERP",
-    "currentPage": "ETC",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -134,7 +134,7 @@
               "color": "#b8312f"
             },
             ".mbr-section-lead B": {
-              "color": "#ffffff"
+              "color": "#b8312f"
             }
           },
           "_anchor": "header1-1",
